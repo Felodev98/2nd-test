@@ -1,0 +1,55 @@
+.img1 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    align-content: right;
+}
+.btn-2 {
+float: inline-start;}
+.img2 {
+width: 200px;
+height: 200px;
+}
+.img3 {
+width: 200px;
+height: 200px;  
+}
+.img4 {
+width: 200px;
+height: 200px;
+}
+.img5 {
+width: 200px;
+height: 200px;
+}
+.img6 {
+width: 200px;
+height: 200px;
+}
+.img7 {
+width: 200px;
+height: 200px;
+}
+body {
+background-color:blueviolet;
+color: aliceblue;
+}
+li {
+font-weight: bold;
+}
+ul {
+font-weight: bold;
+}
+
+.p-2 {
+    color: rgb(247, 201, 17);
+    font-weight: bold;
+    font-style: oblique;
+    font-size: larger;
+}
+.p-1 {
+    color:rgb(247, 201, 17);
+    font-weight: bold;
+    font-style: oblique;
+    font-size: large;
+}
